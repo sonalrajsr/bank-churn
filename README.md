@@ -17,7 +17,7 @@ The dataset used for this project is `Customer-Churn-Records.csv`. It contains v
 7. **Visualization**: Plot the training and validation accuracy and loss.
 
 ## Images
-![Accuracy Overview](images/image.png)
+![Accuracy Overview](accuracy.png)
 *Figure 1: Accuracy Comparision*
-![Loss Overview](images/accuracy.png)
+![Loss Overview](image.png)
 *Figure 1: Loss Comparision*
