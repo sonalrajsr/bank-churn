@@ -16,20 +16,3 @@ The dataset used for this project is `Customer-Churn-Records.csv`. It contains v
 6. **Model Training and Evaluation**: Train the model and evaluate its performance.
 7. **Visualization**: Plot the training and validation accuracy and loss.
 
-## Code Walkthrough
-
-### Data Loading and Exploration
-
-```python
-import pandas as pd
-import numpy as np
-from sklearn.preprocessing import MinMaxScaler
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
-
-data_frame = pd.read_csv("/content/Customer-Churn-Records.csv")
-
-data_frame.head()
-data_frame.shape
-data_frame.isnull().sum()
-data_frame.duplicated().sum()
