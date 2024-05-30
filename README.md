@@ -18,6 +18,6 @@ The dataset used for this project is `Customer-Churn-Records.csv`. It contains v
 
 ## Images
 ![Accuracy Overview](accuracy.png)
-*Figure 1: Accuracy Comparision*
-![Loss Overview](image.png)
-*Figure 2: Loss Comparision*
+
+![Loss Overview](loss.png)
+
